@@ -1,0 +1,12 @@
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/bin/Debug/netcoreapp2.0/ClassLibTest.deps.json
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/bin/Debug/netcoreapp2.0/ClassLibTest.runtimeconfig.json
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/bin/Debug/netcoreapp2.0/ClassLibTest.runtimeconfig.dev.json
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/bin/Debug/netcoreapp2.0/ClassLibTest.dll
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/bin/Debug/netcoreapp2.0/ClassLibTest.pdb
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/obj/Debug/netcoreapp2.0/ClassLibTest.csproj.CoreCompileInputs.cache
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/obj/Debug/netcoreapp2.0/ClassLibTest.AssemblyInfoInputs.cache
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/obj/Debug/netcoreapp2.0/ClassLibTest.AssemblyInfo.cs
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/obj/Debug/netcoreapp2.0/ClassLibTest.dll
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/obj/Debug/netcoreapp2.0/ClassLibTest.pdb
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/bin/Debug/netcoreapp2.0/Claslib.dll
+/home/dkramar/RiderProjects/ClassLibTest/ClassLibTest/bin/Debug/netcoreapp2.0/Claslib.pdb
