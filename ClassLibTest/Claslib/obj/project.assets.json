@@ -669,14 +669,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dkramar/RiderProjects/ClassLibTest/Claslib/Claslib.csproj",
+      "projectUniqueName": "/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/Claslib.csproj",
       "projectName": "Claslib",
-      "projectPath": "/home/dkramar/RiderProjects/ClassLibTest/Claslib/Claslib.csproj",
+      "projectPath": "/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/Claslib.csproj",
       "packagesPath": "/home/dkramar/.nuget/packages/",
-      "outputPath": "/home/dkramar/RiderProjects/ClassLibTest/Claslib/obj/",
+      "outputPath": "/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/dkramar/.config/NuGet/NuGet.Config"
+        "/home/dkramar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -701,7 +701,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           }
         },

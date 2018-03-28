@@ -6,3 +6,11 @@
 /home/dkramar/RiderProjects/ClassLibTest/Claslib/obj/Debug/netcoreapp2.0/Claslib.AssemblyInfo.cs
 /home/dkramar/RiderProjects/ClassLibTest/Claslib/obj/Debug/netcoreapp2.0/Claslib.dll
 /home/dkramar/RiderProjects/ClassLibTest/Claslib/obj/Debug/netcoreapp2.0/Claslib.pdb
+/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/bin/Debug/netcoreapp2.0/Claslib.deps.json
+/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/bin/Debug/netcoreapp2.0/Claslib.dll
+/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/bin/Debug/netcoreapp2.0/Claslib.pdb
+/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/obj/Debug/netcoreapp2.0/Claslib.csproj.CoreCompileInputs.cache
+/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/obj/Debug/netcoreapp2.0/Claslib.AssemblyInfoInputs.cache
+/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/obj/Debug/netcoreapp2.0/Claslib.AssemblyInfo.cs
+/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/obj/Debug/netcoreapp2.0/Claslib.dll
+/home/dkramar/dev/ClassLibTest/ClassLibTest/Claslib/obj/Debug/netcoreapp2.0/Claslib.pdb

@@ -18,7 +18,7 @@ namespace TestProject1
                 Assert.Equal(c.Add(a, b), a+b);
                 Assert.Equal(c.Sub(a, b), a - b);
                 Assert.Equal(c.Mul(a, b), a * b);
-                Assert.Equal(c.Mul(a, b), a / b);
+                Assert.Equal(c.Div(a, b), a / b);
             }
             
         }

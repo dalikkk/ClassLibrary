@@ -1,0 +1,15 @@
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/TestProject1.deps.json
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/TestProject1.runtimeconfig.json
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/TestProject1.runtimeconfig.dev.json
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/TestProject1.dll
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/TestProject1.pdb
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/Claslib.dll
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/bin/Debug/netcoreapp2.0/Claslib.pdb
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/obj/Debug/netcoreapp2.0/TestProject1.csproj.CoreCompileInputs.cache
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/obj/Debug/netcoreapp2.0/TestProject1.AssemblyInfoInputs.cache
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/obj/Debug/netcoreapp2.0/TestProject1.AssemblyInfo.cs
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/obj/Debug/netcoreapp2.0/TestProject1.dll
+/home/dkramar/dev/ClassLibTest/ClassLibTest/TestProject1/obj/Debug/netcoreapp2.0/TestProject1.pdb
